@@ -1,2 +1,1 @@
-
-https://yogadayo.github.io/Singgle-Page-CV/
+https://roadmap.sh/projects/single-page-cv
